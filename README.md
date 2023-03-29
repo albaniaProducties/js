@@ -50,3 +50,6 @@ console.log(my_var + my_var2);
 ```
 
 # остальные уроки в скоро.
+
+<iframe src="index.html" width="100%" height="300px"></iframe>
+
